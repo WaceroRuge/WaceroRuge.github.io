@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-**Titulo:** _Parametric and Semiparametric Prediction of Finite Population Total Under Informative Sampling and Nonignorable Nonresponse._ canci\`{o}n.
+**Titulo:** _Parametric and Semiparametric Prediction of Finite Population Total Under Informative Sampling and Nonignorable Nonresponse._ canci&oacuten.
 
 **Conferencista:** [Abdulhakeem Eideh](https://www.alquds.edu/en/faculty-team/abdulhakeem-eideh/).
 
