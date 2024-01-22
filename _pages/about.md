@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Departamento de estadística e investigación operativa</p>
-    <p>Universidad Complutense de Madrid</p>
+    <p>[Dpto. de estadística e investigación operativa.](https://www.ucm.es/dpeio)</p>
+    <p>[Facultad de ciencias matemáticas](https://matematicas.ucm.es/)</p>
     <p>Plaza de las Ciencias, 3. Moncloa.</p>
 
 news: true # includes a list of news items
@@ -25,10 +25,13 @@ La asistencia es libre, y todos son bienvenidos, independientemente de su nivel 
 
 Nuestras lineas de investivación estan orientadas a:
 
-- Inferencia Estadística Clásica y Bayesiana.
+- [Inferencia Estadística Clásica y Bayesiana.](https://www.youtube.com/watch?v=r76oDIvwETI)
 - Técnicas de Muestreo.
 - Modelos Lineales Generalizados y Mixtos.
 - Estimación en Áreas Pequeñas.
 - Machine Learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[¿Donde estamos?](https://www.google.com/maps/place/Facultad+de+Ciencias+Matem%C3%A1ticas/@40.4494573,-3.7442893,15z/data=!3m2!4b1!5s0xd4228344c8eed65:0xc5734db33a171a9f!4m6!3m5!1s0xd42283448dd5227:0x2ec4a86e26462d8b!8m2!3d40.4494588!4d-3.7258568!16s%2Fg%2F1230_4n_?entry=ttu)
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ -->
