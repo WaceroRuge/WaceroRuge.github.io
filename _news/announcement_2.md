@@ -10,7 +10,7 @@ related_posts: false
 
 **Conferencista:** [Abdulhakeem Eideh](https://www.alquds.edu/en/faculty-team/abdulhakeem-eideh/).
 
-**Lugar y hora:** Viernes 19 de enero, 2024 a las 10:30 en la sala 215 Sixto Ríos.  
+**Lugar y hora:** Viernes 19 de enero, 2024 a las 10:30 en la sala 215 Sixto Rios.  
 
 ---
 
