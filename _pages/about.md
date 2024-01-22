@@ -21,6 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Imagina un lugar donde la estad&iacute;stica se convierte en una conversaci&oacute;n animada, donde cada gr&aacute;fico y cada ecuaci&oacute;n se convierten en piezas de un rompecabezas emocionante. Compartimos descubrimientos, desafiamos conceptos y nos inspiramos mutuamente para ir m&aacute;s all&aacute; de los l&iacute;mites de lo conocido.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+La asistencia es libre, y todos son bienvenidos, independientemente de su nivel de experiencia. Adem&aacute;s, estamos emocionados de anunciarte que tendr&aacute;s la oportunidad &uacute;nica de participar en conferencias y charlas con investigadores l&iacute;deres en cada uno de estos campos.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Nuestras l&iacute;neas de investigaci&oacute;n est&aacute;n orientadas a:
+
