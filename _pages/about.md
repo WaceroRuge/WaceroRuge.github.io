@@ -24,9 +24,3 @@ Imagina un lugar donde la estad&iacute;stica se convierte en una conversaci&oacu
 La asistencia es libre, y todos son bienvenidos, independientemente de su nivel de experiencia. Adem&aacute;s, estamos emocionados de anunciarte que tendr&aacute;s la oportunidad &uacute;nica de participar en conferencias y charlas con investigadores l&iacute;deres en cada uno de estos campos.
 
 Nuestras l&iacute;neas de investigaci&oacute;n est&aacute;n orientadas a:
-
-<ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-</ul>
