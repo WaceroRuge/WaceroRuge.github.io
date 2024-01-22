@@ -25,4 +25,4 @@ La asistencia es libre, y todos son bienvenidos, independientemente de su nivel 
 
 Nuestras l&iacute;neas de investigaci&oacute;n est&aacute;n orientadas a:
 
-<p><a href="https://www.ejemplo.com">Enlace 1</a></p>
++ Inferencia Estad&iacute;stica Cl&aacute;sica y Bayesiana.
