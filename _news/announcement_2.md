@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+_Parametric and Semiparametric Prediction of Finite Population Total Under Informative Sampling and Nonignorable Nonresponse_ por [Abdulhakeem Eideh](https://www.alquds.edu/en/faculty-team/abdulhakeem-eideh/). 
 
 ---
 
