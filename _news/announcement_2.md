@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
+title: Seminario en tecnicas de muestreo
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-_Parametric and Semiparametric Prediction of Finite Population Total Under Informative Sampling and Nonignorable Nonresponse_ por [Abdulhakeem Eideh](https://www.alquds.edu/en/faculty-team/abdulhakeem-eideh/). 
+Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
 
