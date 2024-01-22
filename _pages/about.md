@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Imagina un lugar donde la estadística se convierte en una conversación animada, donde cada gráfico y cada ecuación se convierten en piezas de un rompecabezas emocionante. Compartimos descubrimientos, desafiamos conceptos y nos inspiramos mutuamente para ir más allá de los límites de lo conocido.
+Imagina un lugar donde la estadistica se convierte en una conversacion animada, donde cada grafico y cada ecuacion se convierten en piezas de un rompecabezas emocionante. Compartimos descubrimientos, desafiamos conceptos y nos inspiramos mutuamente para ir mas alla de los límites de lo conocido.
 
 
 
