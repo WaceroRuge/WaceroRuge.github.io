@@ -12,16 +12,6 @@ related_posts: false
 
 ---
 
-The main aim of the seminar is to consider
-how to account for the joint effects of informative sampling designs and not missing-at-random
-response mechanism in survey sampling. For this purpose, theoretically, we use the response
-distribution and relationships between the moments of the superpopulation, the sample, sample-
-complement, response, and nonresponse distributions for the prediction of finite population totals.
-This is the most general situation in surveys and other combinations of sampling informativeness
-and response mechanisms can be considered as special cases. Furthermore, based on the
-relationship between response distribution and population distribution, we introduce a new
-measure of the representativeness of a response set and a new test of nonignorable nonresponse
-and informative sampling, jointly. Finally, a calibration estimator is obtained when the sampling
-design is informative and the nonresponse mechanism is nonignorable.
+The main aim of the seminar is to consider how to account for the joint effects of informative sampling designs and not missing-at-random response mechanism in survey sampling. For this purpose, theoretically, we use the response distribution and relationships between the moments of the superpopulation, the sample, sample-complement, response, and nonresponse distributions for the prediction of finite population totals. This is the most general situation in surveys and other combinations of sampling informativeness and response mechanisms can be considered as special cases. Furthermore, based on the relationship between response distribution and population distribution, we introduce a new measure of the representativeness of a response set and a new test of nonignorable nonresponse and informative sampling, jointly. Finally, a calibration estimator is obtained when the sampling design is informative and the nonresponse mechanism is nonignorable.
 
 ---
