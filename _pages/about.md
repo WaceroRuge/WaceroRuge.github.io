@@ -26,7 +26,7 @@ La asistencia es libre, y todos son bienvenidos, independientemente de su nivel 
 Nuestras l&iacute;neas de investigaci&oacute;n est&aacute;n orientadas a:
 
 <ul>
-    <li>[Inferencia Estad&iacute;stica Cl&aacute;sica y Bayesiana.](https://www.youtube.com/watch?v=r76oDIvwETI)</li>
+    <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
 </ul>
