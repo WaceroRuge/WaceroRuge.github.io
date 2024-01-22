@@ -19,8 +19,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Imagina un lugar donde la estadística se convierte en una conversación animada, donde cada gráfico y cada ecuación se convierten en piezas de un rompecabezas emocionante. Aquí, no solo estudiamos datos; los celebramos. Compartimos descubrimientos, desafiamos conceptos y nos inspiramos mutuamente para ir más allá de los límites de lo conocido.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+No importa tu nivel de conocimiento en estadística; todos son bienvenidos, desde principiantes hasta expertos. ¡La diversidad en nuestro grupo es lo que hace que nuestras discusiones sean aún más enriquecedoras!.
+
+[comment]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+En el "Statistics Reading Group UCM", la asistencia es libre, y todos son bienvenidos, independientemente de su nivel de experiencia. Además, estamos emocionados de anunciarte que tendrás la oportunidad única de participar en conferencias y charlas con investigadores líderes en cada uno de estos campos. ¡Aprenderás de los mejores y te inspirarás con las mentes más brillantes!
+
+Nuestras lineas de investivación estan orientadas a:
+
+- Inferencia Estadística Clásica y Bayesiana.
+- Técnicas de Muestreo.
+- Modelos Lineales Generalizados y Mixtos
+- Estimación en Áreas Pequeñas.
+- Machine Learning: 
+
+[comment]: <> Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
