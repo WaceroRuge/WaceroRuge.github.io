@@ -16,7 +16,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # include social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Imagine a place where statistics becomes an animated conversation, where every graph and every equation becomes a piece of an exciting puzzle. We share discoveries, challenge concepts, and inspire each other to go beyond the boundaries of what is known.
