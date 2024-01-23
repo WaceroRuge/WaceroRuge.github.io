@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seminario en tecnicas de muestreo
+title: Sampling techniques seminar
 date: 2024-01-19 10:30:00-0400
 inline: false
 related_posts: false
