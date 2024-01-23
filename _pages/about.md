@@ -19,10 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Imagina un lugar donde la estad&iacute;stica se convierte en una conversaci&oacute;n animada, donde cada gr&aacute;fico y cada ecuaci&oacute;n se convierten en piezas de un rompecabezas emocionante. Compartimos descubrimientos, desafiamos conceptos y nos inspiramos mutuamente para ir m&aacute;s all&aacute; de los l&iacute;mites de lo conocido.
+Imagine a place where statistics becomes an animated conversation, where every graph and every equation becomes a piece of an exciting puzzle. We share discoveries, challenge concepts, and inspire each other to go beyond the boundaries of what is known.
 
-La asistencia es libre, y todos son bienvenidos, independientemente de su nivel de experiencia. Adem&aacute;s, estamos emocionados de anunciarte que tendr&aacute;s la oportunidad &uacute;nica de participar en conferencias y charlas con investigadores l&iacute;deres en cada uno de estos campos.
+Attendance is free, and everyone is welcome, regardless of their level of experience. Additionally, we are excited to announce that you will have the unique opportunity to participate in conferences and talks with leading researchers.
 
-Nuestras l&iacute;neas de investigaci&oacute;n est&aacute;n orientadas a: [Inferencia estad&iacute;stica cl&aacute;sica y bayesiana.](https://www.youtube.com/watch?v=r76oDIvwETI), [t&eacute;cnicas de muestreo](https://www.youtube.com/watch?v=9PaR1TsvnJs), [modelos lineales generalizados y mixtos](https://www.youtube.com/watch?v=n8Nj64FyjSo), [estimaci&oacute;n en &aacute;reas peque&ntilde;as](https://www.youtube.com/watch?v=G2U7jVzHlzc&t=4629s) y [machine learning](https://www.youtube.com/watch?v=ukzFI9rgwfU).
+Our research lines are focused on: [Classical and bayesian statistical inference](https://www.youtube.com/watch?v=r76oDIvwETI), [sampling techniques](https://www.youtube.com/watch?v=9PaR1TsvnJs), [generalized and mixed linear models](https://www.youtube.com/watch?v=n8Nj64FyjSo), [small area estimation](https://www.youtube.com/watch?v=G2U7jVzHlzc&t=4629s), and [machine learning](https://www.youtube.com/watch?v=ukzFI9rgwfU).
 
-[&iquest;D&oacute;nde estamos?](https://www.google.com/maps/place/Facultad+de+Ciencias+Matem%C3%A1ticas/@40.4494573,-3.7442893,15z/data=!3m2!4b1!5s0xd4228344c8eed65:0xc5734db33a171a9f!4m6!3m5!1s0xd42283448dd5227:0x2ec4a86e26462d8b!8m2!3d40.4494588!4d-3.7258568!16)
+
+[Locate us](https://www.google.com/maps/place/Facultad+de+Ciencias+Matem%C3%A1ticas/@40.4494573,-3.7442893,15z/data=!3m2!4b1!5s0xd4228344c8eed65:0xc5734db33a171a9f!4m6!3m5!1s0xd42283448dd5227:0x2ec4a86e26462d8b!8m2!3d40.4494588!4d-3.7258568!16)
