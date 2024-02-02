@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://WaceroRuge.github.io/sitemap.xml
+Sitemap: https://waceroruge.github.io/sitemap.xml
