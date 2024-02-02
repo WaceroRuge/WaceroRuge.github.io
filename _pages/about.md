@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Imagine a place where statistics becomes an animated conversation, where every graph and every equation becomes a piece of an exciting puzzle. We share discoveries, challenge concepts, and inspire each other to go beyond the boundaries of what is known.
+Imagine a place where statistics becomes an animated conversation, where every graph and every equation becomes a piece of an exciting puzzle. We share discoveries, challenge concepts, and inspire each other to go beyond the boundaries of what is known
 
 Attendance is free, and everyone is welcome, regardless of their level of experience. Additionally, we are excited to announce that you will have the unique opportunity to participate in conferences and talks with leading researchers.
 
