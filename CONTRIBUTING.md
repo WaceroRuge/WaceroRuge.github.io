@@ -4,7 +4,7 @@ Thank you for considering contributing to al-folio!
 
 ## Pull Requests
 
-We welcome your pull requests (PRs).
+We welcome your pull request (PRs).
 For minor fixes (e.g., documentation improvements), feel free to submit a PR directly.
 If you would like to implement a new feature or a bug, please make sure you (or someone else) has opened an appropriate issue first; in your PR, please mention the issue it addresses.
 
